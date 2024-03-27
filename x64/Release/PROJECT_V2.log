@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(235,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(236,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(240,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(241,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(242,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(243,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(252,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(252,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(662,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\PROJECT_V2\main.cpp(670,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  7 of 1757 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PROJECT_V2.vcxproj -> D:\FACULTATE\AN_3_SEM_1\PG\PROJECT_V2\PROJECT_V2\x64\Release\PROJECT_V2.exe
